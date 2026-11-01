@@ -89,6 +89,6 @@ Companion project: `planted-cheats-vs-llm-monitors`.
   author = {Muhammad Ghaus Malik},
   title  = {Minimal Triggers for LLM Monitor Flags: Does the Monitor React to the Cheat or to Words?},
   year   = {2026},
-  note   = {Pilot study, code and data}
+  note   = {Code and data}
 }
 ```
